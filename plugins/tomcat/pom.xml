@@ -9,13 +9,9 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<groupId>com.m2u.eyelink</groupId>
-	<artifactId>plugin-tomcat</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>eyelink-plugin-tomcat</artifactId>
+	<name>eyelink-plugin-tomcat</name>
 	<packaging>jar</packaging>
-
-	<name>plugin-tomcat</name>
-	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

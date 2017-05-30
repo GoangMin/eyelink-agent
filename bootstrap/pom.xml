@@ -8,13 +8,9 @@
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<groupId>com.m2u.eyelink</groupId>
-	<artifactId>bootstrap</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<artifactId>eyelink-bootstrap</artifactId>
+	<name>eyelink-bootstrap</name>
 	<packaging>jar</packaging>
-
-	<name>bootstrap</name>
-	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
